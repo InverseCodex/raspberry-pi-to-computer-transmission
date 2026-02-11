@@ -1,1 +1,1 @@
-This code "ONLY" currently existing image, this should be treated as the end process of the transmission.
+This code "ONLY" looks for currently existing image, this should be treated as the end process of the transmission.
